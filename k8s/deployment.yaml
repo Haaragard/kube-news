@@ -78,5 +78,3 @@ spec:
     appProtocol: TCP
     nodePort: 30000
   type: NodePort
-
-
