@@ -104,3 +104,9 @@ node_modules/
 # .tern-port
 
 *.Identifier
+/.idea/.gitignore
+/.idea/kube-news.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/php.xml
+/.idea/vcs.xml
